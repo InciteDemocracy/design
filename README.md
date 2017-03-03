@@ -1,8 +1,8 @@
 # Design
 
 ### Members
-* Brianna Penney
-* Justin Charles
+* [Brianna Penney](https://github.com/bripenney)
+* [Justin Charles](https://github.com/justincharles)
 * [Nicholas Swanson](https://github.com/nicholasswanson)
 
 ### Workflows and tools
